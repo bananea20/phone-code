@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Postprocess">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Postprocess.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
